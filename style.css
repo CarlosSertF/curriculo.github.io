@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.setor{
+    background: rgb(137, 214, 245);
+    color:rgb(108, 166, 253);
+    font-family: 'Times New Roman', Times, serif ;
+}
+
+a{
+    color: blue;
+    font-style:italic;
+}
+a:hover{
+    color: rgb(0, 156, 156);
+}
+
+#grade{
+    text-decoration: underline;
+}
+
+figure{
+    text-align: center;
+}
+
+figcaption{
+    font-weight: bold;
+}
