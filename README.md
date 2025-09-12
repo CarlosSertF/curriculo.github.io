@@ -1,1 +1,0 @@
-# curriculo.github.io
